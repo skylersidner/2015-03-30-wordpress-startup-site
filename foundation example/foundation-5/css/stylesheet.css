@@ -1,0 +1,53 @@
+body {
+  margin: 0 auto;
+}
+
+.row {
+  width: 100%;
+}
+
+.bottom-of-post {
+  background: #cccccc;
+}
+
+.menu-wrap {
+  background: #FFFFFF;
+}
+
+.post-wrap {
+  padding: 30px;
+  background: #aeaeae;
+}
+
+.fullWidth {
+   width: 100%;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: initial;
+}
+
+
+.top-of-post {
+  background: #FFFFFF;
+  padding: 30px;
+}
+
+.bottom-of-post ul {
+  list-style: none;
+  margin: 0 0 0 30px;
+}
+
+.bottom-of-post ul li {
+  display: inline-block;
+  padding: 15px 10px;
+}
+
+.bottom-of-post li a {
+  text-decoration: none;
+}
+
+.bottom-of-post a:hover {
+  text-decoration: underline;
+  color: #000000;
+}
+

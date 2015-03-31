@@ -1,0 +1,17 @@
+.blue {
+  background-color: blue;
+}
+
+.row{
+  max-width: 100%;
+}
+
+.red {
+  background-color: red;
+}
+
+html, button, input, select, textarea,
+.pure-g [class *= "pure-u"] {
+    /* Set your content font stack here: */
+    font-family: Georgia, Times, "Times New Roman", serif;
+}
